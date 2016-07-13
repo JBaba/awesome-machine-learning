@@ -109,3 +109,9 @@ Security Related
 ----------------
 
 http://jordan-wright.github.io/blog/
+
+
+Online Course
+-------------
+
+[A Course in Machine Learning - by Hal Daumé III]  (http://ciml.info/)
